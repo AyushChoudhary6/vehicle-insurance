@@ -662,13 +662,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 👥 Authors
-
-- **Vikash Das** - Initial work - [GitHub Profile](https://github.com/AyushChoudhary6)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -677,15 +670,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB and AWS for cloud infrastructure
 - imbalanced-learn for SMOTEENN implementation
 
----
 
-## 📞 Contact
-
-For any queries or suggestions, please reach out:
-- Email: vikashdas770@gmail.com
-- GitHub: [@AyushChoudhary6](https://github.com/AyushChoudhary6)
-
----
 
 ## ⭐ Show Your Support
 
